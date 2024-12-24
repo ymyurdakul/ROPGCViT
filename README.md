@@ -89,7 +89,7 @@ Ensure the following are installed:
 
 - **Affiliation**: [Selçuk University, Computer Engineering Department](https://www.selcuk.edu.tr/)
 - **Expertise**: Deep learning, Vision Transformers, Medical Imaging
-- 🌍 **Location**: [Konya, Turkey](https://goo.gl/maps/5fUZKKovDfAQzdPXA)
+- 🌍 **Location**: Konya, Turkey
 - [ORCID](https://orcid.org/0000-0002-2433-246X)
 - 📧 **Email**: [stasdemir@selcuk.edu.tr](mailto\:stasdemir@selcuk.edu.tr)
 
@@ -99,7 +99,7 @@ Ensure the following are installed:
 
 - **Affiliation**: [Alanya Alaaddin Keykubat University, Computer Engineering Department](https://www.alanya.edu.tr/)
 - **Expertise**: Machine Learning, Computer Vision, Hybrid Models
-- 🌍 **Location**: [Antalya, Turkey](https://goo.gl/maps/KdRG6E8FBCyE6EGT8)
+- 🌍 **Location**: Antalya, Turkey
 - [ORCID](https://orcid.org/0000-0001-5345-3319)
 - 📧 **Email**: [kubra.uyar@alanya.edu.tr](mailto\:kubra.uyar@alanya.edu.tr)
 
@@ -109,7 +109,7 @@ Ensure the following are installed:
 
 - **Affiliation**: [Kırıkkale University, Computer Engineering Department](https://www.kku.edu.tr/)
 - **Expertise**: Vision Transformers, Attention Mechanisms, AI in Healthcare
-- 🌍 **Location**: [Kırıkkale, Turkey](https://goo.gl/maps/BsMkq2RtFbDyzXyZ7)
+- 🌍 **Location**: Kırıkkale, Turkey
 - 📧 **Email**: [mustafayurdakul@kku.edu.tr](mailto\:mustafayurdakul@kku.edu.tr)
 
 ---
