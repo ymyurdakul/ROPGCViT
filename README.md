@@ -52,25 +52,22 @@ The ROPGCViT model demonstrated significant improvements over 50 tested deep lea
    ```
 
 ## Authors
+- **Şakir Taşdemir**  
+  Selçuk University, Computer Engineering Department  
+  [ORCID](https://orcid.org/0000-0002-2433-246X) | Email: stasdemir@selcuk.edu.tr
+  
+  - **Kübra Uyar**  
+  Alanya Alaaddin Keykubat University, Computer Engineering Department  
+  [ORCID](https://orcid.org/0000-0001-5345-3319) | Email: kubra.uyar@alanya.edu.tr
 
 - **Mustafa Yurdakul**  
   Kırıkkale University, Computer Engineering Department  
   [ORCID](https://orcid.org/0000-0003-0562-4931) | Email: mustafayurdakul@kku.edu.tr  
-
-- **Kübra Uyar**  
-  Alanya Alaaddin Keykubat University, Computer Engineering Department  
-  [ORCID](https://orcid.org/0000-0001-5345-3319) | Email: kubra.uyar@alanya.edu.tr  
-
-- **Şakir Taşdemir**  
-  Selçuk University, Computer Engineering Department  
-  [ORCID](https://orcid.org/0000-0002-2433-246X) | Email: stasdemir@selcuk.edu.tr  
 
 ## Contact
 
 For questions or feedback, please contact:  
 **Mustafa Yurdakul**: mustafayurdakul@kku.edu.tr  
 
-## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
 
