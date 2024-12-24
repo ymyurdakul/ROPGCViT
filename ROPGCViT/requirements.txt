@@ -1,0 +1,9 @@
+tensorflow>=2.8.0
+keras>=2.8.0
+keras-cv-attention-models>=1.0.0
+numpy>=1.19.5
+matplotlib>=3.3.4
+seaborn>=0.11.1
+pandas>=1.1.5
+scikit-learn>=0.24.2
+h5py>=3.1.0
