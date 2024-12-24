@@ -2,8 +2,6 @@
 
 ![image]\(https\://github.com/user-attachments/assets/4cd20610-9535-4856-b774-64c8b7c43211)
 
-
-
 Welcome to the **ROPGCViT** repository{: .img-circle .img-small} with unparalleled precision. By leveraging **Squeeze-and-Excitation (SE) blocks** and **Residual Multi-Layer Perceptrons (RMLPs)**, ROPGCViT sets new standards in medical imaging.
 
 ---
