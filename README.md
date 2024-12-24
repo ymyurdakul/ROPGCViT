@@ -1,6 +1,6 @@
 # 🌟 ROPGCViT: Advanced Vision Transformer for Retinopathy Diagnosis
 
-![image]\(https\://github.com/user-attachments/assets/4cd20610-9535-4856-b774-64c8b7c43211)
+![image](https://github.com/user-attachments/assets/4cd20610-9535-4856-b774-64c8b7c43211)
 
 
 
