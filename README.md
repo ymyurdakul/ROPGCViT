@@ -4,7 +4,7 @@
 
 
 
-Welcome to the **ROPGCViT** repository! This cutting-edge Vision Transformer architecture is meticulously designed for diagnosing Retinopathy of Prematurity (**ROP**) with unparalleled precision. By leveraging **Squeeze-and-Excitation (SE) blocks** and **Residual Multi-Layer Perceptrons (RMLPs)**, ROPGCViT sets new standards in medical imaging.
+Welcome to the **ROPGCViT** repository![ This cutting-edge Vision Transformer architecture is meticulously designed for diagnosing Retinopathy of Prematurity ](**ROP**){: .img-circle .img-small} with unparalleled precision. By leveraging **Squeeze-and-Excitation (SE) blocks** and **Residual Multi-Layer Perceptrons (RMLPs)**, ROPGCViT sets new standards in medical imaging.
 
 ---
 
