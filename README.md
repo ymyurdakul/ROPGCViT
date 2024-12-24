@@ -1,5 +1,5 @@
 # ROPGCViT
-ROPGCViT
+![image](https://github.com/user-attachments/assets/a70c57f3-8d27-47cd-815b-e90f5b70f9d1)
 # ROPGCViT: An Advanced Global Context Vision Transformer for High-Precision Retinopathy of Prematurity Diagnosis
 
 This repository contains the implementation of ROPGCViT, a novel Vision Transformer architecture designed for the diagnosis of Retinopathy of Prematurity (ROP). ROPGCViT enhances the GCViT architecture with Squeeze-and-Excitation (SE) blocks and Residual Multi-Layer Perceptrons (RMLPs) to achieve superior accuracy and robustness.
