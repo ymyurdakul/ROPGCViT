@@ -1,7 +1,9 @@
 # 🌟 ROPGCViT: Advanced Vision Transformer for Retinopathy Diagnosis
 
-![image](https://github.com/user-attachments/assets/4cd20610-9535-4856-b774-64c8b7c43211)
- 
+![image]\(https\://github.com/user-attachments/assets/4cd20610-9535-4856-b774-64c8b7c43211)
+
+
+
 Welcome to the **ROPGCViT** repository{: .img-circle .img-small} with unparalleled precision. By leveraging **Squeeze-and-Excitation (SE) blocks** and **Residual Multi-Layer Perceptrons (RMLPs)**, ROPGCViT sets new standards in medical imaging.
 
 ---
@@ -85,32 +87,32 @@ Ensure the following are installed:
 
 ### 🧑‍🏫 Prof. Dr. Şakir Taşdemir
 
-![Prof. Dr. Şakir Taşdemir](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-JUlcgfsbon4bkrIKFQYDvRdDEXVbUGyAXQ&s)
+
 
 - **Affiliation**: [Selçuk University, Computer Engineering Department](https://www.selcuk.edu.tr/)
 - **Expertise**: Deep learning, Vision Transformers, Medical Imaging
 - 🌍 **Location**: [Konya, Turkey](https://goo.gl/maps/5fUZKKovDfAQzdPXA)
 - [ORCID](https://orcid.org/0000-0002-2433-246X)
-- 📧 **Email**: [stasdemir@selcuk.edu.tr](mailto:stasdemir@selcuk.edu.tr)
+- 📧 **Email**: [stasdemir@selcuk.edu.tr](mailto\:stasdemir@selcuk.edu.tr)
 
 ### 👩‍🏫 Assist. Prof. Dr. Kübra Uyar
 
-![Assist. Prof. Dr. Kübra Uyar](https://avebis.alanya.edu.tr/dosya/0954.jpg)
+
 
 - **Affiliation**: [Alanya Alaaddin Keykubat University, Computer Engineering Department](https://www.alanya.edu.tr/)
 - **Expertise**: Machine Learning, Computer Vision, Hybrid Models
 - 🌍 **Location**: [Antalya, Turkey](https://goo.gl/maps/KdRG6E8FBCyE6EGT8)
 - [ORCID](https://orcid.org/0000-0001-5345-3319)
-- 📧 **Email**: [kubra.uyar@alanya.edu.tr](mailto:kubra.uyar@alanya.edu.tr)
+- 📧 **Email**: [kubra.uyar@alanya.edu.tr](mailto\:kubra.uyar@alanya.edu.tr)
 
 ### 🧑‍🎓 Mustafa Yurdakul (PhD Candidate)
 
-![Mustafa Yurdakul](https://media.licdn.com/dms/image/v2/D4D03AQEA1djvXyWEfA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1674963604702?e=2147483647&v=beta&t=nYUgdIyCsKBtvhp1y6B_phWAjTaQuaf5brZAcHaYU1M)
+
 
 - **Affiliation**: [Kırıkkale University, Computer Engineering Department](https://www.kku.edu.tr/)
 - **Expertise**: Vision Transformers, Attention Mechanisms, AI in Healthcare
 - 🌍 **Location**: [Kırıkkale, Turkey](https://goo.gl/maps/BsMkq2RtFbDyzXyZ7)
-- 📧 **Email**: [mustafayurdakul@kku.edu.tr](mailto:mustafayurdakul@kku.edu.tr)
+- 📧 **Email**: [mustafayurdakul@kku.edu.tr](mailto\:mustafayurdakul@kku.edu.tr)
 
 ---
 
