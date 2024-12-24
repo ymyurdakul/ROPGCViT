@@ -1,6 +1,6 @@
 # 🌟 ROPGCViT: Advanced Vision Transformer for Retinopathy Diagnosis
 
-![image](https://github.com/user-attachments/assets/a70c57f3-8d27-47cd-815b-e90f5b70f9d1)
+{: .img-small .img-circle}
 
 
 
@@ -95,19 +95,15 @@ Ensure the following are installed:
 - [ORCID](https://orcid.org/0000-0002-2433-246X)
 - 📧 **Email**: [stasdemir@selcuk.edu.tr](mailto:stasdemir@selcuk.edu.tr)
 
-- **Affiliation**: [Selçuk University, Computer Engineering Department](https://www.selcuk.edu.tr/)
-- **Expertise**: Deep learning, Vision Transformers, Medical Imaging
-- 🌍 **Location**: [Konya, Turkey](https://goo.gl/maps/5fUZKKovDfAQzdPXA)
-- [ORCID](https://orcid.org/0000-0002-2433-246X)
-- 📧 **Email**: [stasdemir@selcuk.edu.tr](mailto\:stasdemir@selcuk.edu.tr)
-
 ### 👩‍🏫 Assist. Prof. Dr. Kübra Uyar
+
+![Assist. Prof. Dr. Kübra Uyar](https://avebis.alanya.edu.tr/dosya/0954.jpg)
 
 - **Affiliation**: [Alanya Alaaddin Keykubat University, Computer Engineering Department](https://www.alanya.edu.tr/)
 - **Expertise**: Machine Learning, Computer Vision, Hybrid Models
 - 🌍 **Location**: [Antalya, Turkey](https://goo.gl/maps/KdRG6E8FBCyE6EGT8)
 - [ORCID](https://orcid.org/0000-0001-5345-3319)
-- 📧 **Email**: [kubra.uyar@alanya.edu.tr](mailto\:kubra.uyar@alanya.edu.tr)
+- 📧 **Email**: [kubra.uyar@alanya.edu.tr](mailto:kubra.uyar@alanya.edu.tr)
 
 ### 🧑‍🎓 Mustafa Yurdakul (PhD Candidate)
 
@@ -116,14 +112,7 @@ Ensure the following are installed:
 - **Affiliation**: [Kırıkkale University, Computer Engineering Department](https://www.kku.edu.tr/)
 - **Expertise**: Vision Transformers, Attention Mechanisms, AI in Healthcare
 - 🌍 **Location**: [Kırıkkale, Turkey](https://goo.gl/maps/BsMkq2RtFbDyzXyZ7)
-- [ORCID](https://orcid.org/0000-0003-0562-4931)
 - 📧 **Email**: [mustafayurdakul@kku.edu.tr](mailto:mustafayurdakul@kku.edu.tr)
-
-- **Affiliation**: [Kırıkkale University, Computer Engineering Department](https://www.kku.edu.tr/)
-- **Expertise**: Vision Transformers, Attention Mechanisms, AI in Healthcare
-- 🌍 **Location**: [Kırıkkale, Turkey](https://goo.gl/maps/BsMkq2RtFbDyzXyZ7)
-- [ORCID](https://orcid.org/0000-0003-0562-4931)
-- 📧 **Email**: [mustafayurdakul@kku.edu.tr](mailto\:mustafayurdakul@kku.edu.tr)
 
 ---
 
